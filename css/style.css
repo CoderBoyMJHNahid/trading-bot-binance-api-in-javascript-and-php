@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: arial;
+    box-sizing: border-box;
+}
+
+.page_link_wrapper ul {
+    padding: 0;
+    list-style: none;
+    margin: auto;
+    width: 30%;
+}
+header {
+    padding: 40px 0px;
+    background: #f9f9f9;
+}
+
+.crypto_actualPrice_wrapper {
+    padding: 20px;
+}
+
+.info-box {
+    padding: 15px 10px;
+    border-bottom: 1px solid #939393;
+    background: #ffd966;
+}
+
+.info-box p {
+    margin: 0;
+}
+.budget_crypto_wrapper {
+    padding: 20px;
+}
+.page_link_wrapper {
+    padding: 20px;
+}
+.page_link_wrapper ul li a {
+    text-decoration: none;
+    color: black;
+
+}
+section{
+    padding: 30px 0px;
+}
+table thead th{
+    font-size: 14px;
+}
+ul#suggestCrypto {
+    list-style: none;
+    padding: 0;
+}
+tbody#table-body tr td:nth-child(7){
+    background-color: greenyellow;
+}
+tbody#table-body tr td.open{
+    background: #fce4d6;
+}
+tbody#table-body tr td.full{
+    background: #bdd7ee;
+}
+nav.menu_bar ul {
+    list-style: none;
+    justify-content: center;
+}
+nav.menu_bar ul li a{
+    text-decoration: none;
+    color: black;
+}
